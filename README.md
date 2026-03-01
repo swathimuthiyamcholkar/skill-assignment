@@ -5,7 +5,7 @@ This repository contains scripts for analyzing an `online_retail` database using
 ## Project Structure
 
 - `821160-dbanalysis.py` - script connecting to SQL Server using SQLAlchemy and extracting data with pandas.
-- `821160-sqldbanalysis.py` - Correct Workable script (possibly for SQL queries or analysis).
+- `821160-sqldbanalysis.py` - Working script (possibly for SQL queries or analysis).
 - `dbconnect.py` - (if present) helper for database connection.
 - `requirements.txt` - Python dependencies list.
 
@@ -40,3 +40,5 @@ This repository contains scripts for analyzing an `online_retail` database using
 ## License
 
 This project is provided for demonstration purposes.
+
+
