@@ -1,7 +1,7 @@
-# #821160 - Weekly Exercises on SQL Database Analysis & Dashboard Creation -July 2025.pdf
+# #821160 - SQL Database Analysis & Dashboard Creation
 
 # SQL Server Analysis Dashboard with Streamlit
-# streamlit run d:/SkillArbritage/src/skill-assignment/821160-sqldbanalysis.py
+# streamlit run d:/src/821160-sqldbanalysis.py
 
 import streamlit as st
 import pyodbc
